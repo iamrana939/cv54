@@ -1,0 +1,31 @@
+body{
+    background-color:#EAF6F6;
+}
+.intro{
+    font-size: 80%;
+}
+.div1{
+    font-size:70%;
+}
+.div2{
+    font-size: 70%;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: black;
+  border-width:5px; 
+  width:10%;
+}
+ h1 /*selector*/{ 
+    color /*property */: #66BFBF /* value */ ;
+}
+h3{
+    color:#66BFBF;
+}
+
+/* }
+order of preference of css
+1. inline css
+2. internal css
+3. external css */
